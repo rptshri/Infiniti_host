@@ -19,9 +19,9 @@ $(document).ready(function() {
 
 $(function() {
   $("#typeeffect").typed({
-    strings: ["Design and Manufacturing", "Products", "Training"],
-    typeSpeed: 300,
-    backDelay: 650,
+    strings: ["Training", "Products", "Design and Manufacturing"],
+    typeSpeed: 150,
+    backDelay: 620,
     loop: true
   });
 });

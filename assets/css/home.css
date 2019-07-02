@@ -63,7 +63,7 @@ h1 {
   font-weight: 600;
 }
 .logo {
-  width: 44vw;
+  width: 30vw;
   height: auto;
   display: block;
   margin: auto;
@@ -159,7 +159,7 @@ p {
 header {
   position: relative;
   background-color: black;
-  height: 100vh;
+  height: 80vh;
   min-height: 25rem;
   width: 100%;
   overflow: hidden;
